@@ -26,14 +26,14 @@ namespace SumaDosNumeros
         {
             this.InitializeComponent();
         }
-
+//lo cambie por una multiplicacion jajajajaj
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             int a, b, c;
             a = System.Convert.ToInt16(tx1.Text);
             b = System.Convert.ToInt16(tx2.Text);
             c = a + b;
-            Resultado.Text = a + "+" + b + "=" + c;
+            Resultado.Text = a + "+" * b * "=" + c;
         }
     }
 }

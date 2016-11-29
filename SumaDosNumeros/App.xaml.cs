@@ -15,6 +15,9 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+
+
+/////aqui solo estamos pasando por aqui y modificando este archivo haciendo solo un comentario
 namespace SumaDosNumeros
 {
     /// <summary>
